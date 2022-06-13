@@ -1,4 +1,4 @@
-# Scrkipt Kiddie WMI Provider
+# Script Kiddie WMI Provider
 
 This repo contains the source code necessary to build the Script Kiddie WMI Provider example from the blog, "WMI Providers for Script Kiddies". Please see the blog for a description of the WMI provider.
 
